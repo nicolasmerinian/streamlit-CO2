@@ -69,6 +69,3 @@ fig_map.update_geos(visible=False
 )
 fig_map.update_layout(height=600, margin={"r":0,"t":0,"l":0,"b":0})
 st.plotly_chart(fig_map)
-
-
-st.chat_input
